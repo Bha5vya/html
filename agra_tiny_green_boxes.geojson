@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Agra Tiny Green Box 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.011,
+              27.175
+            ],
+            [
+              78.0113,
+              27.175
+            ],
+            [
+              78.0113,
+              27.1753
+            ],
+            [
+              78.011,
+              27.1753
+            ],
+            [
+              78.011,
+              27.175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Agra Tiny Green Box 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.0115,
+              27.1755
+            ],
+            [
+              78.0118,
+              27.1755
+            ],
+            [
+              78.0118,
+              27.1758
+            ],
+            [
+              78.0115,
+              27.1758
+            ],
+            [
+              78.0115,
+              27.1755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Agra Tiny Green Box 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.0128,
+              27.1767
+            ],
+            [
+              78.0131,
+              27.1767
+            ],
+            [
+              78.0131,
+              27.177
+            ],
+            [
+              78.0128,
+              27.177
+            ],
+            [
+              78.0128,
+              27.1767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Agra Tiny Green Box 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.0085,
+              27.172
+            ],
+            [
+              78.0088,
+              27.172
+            ],
+            [
+              78.0088,
+              27.1723
+            ],
+            [
+              78.0085,
+              27.1723
+            ],
+            [
+              78.0085,
+              27.172
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Agra Tiny Green Box 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.0153,
+              27.1805
+            ],
+            [
+              78.0156,
+              27.1805
+            ],
+            [
+              78.0156,
+              27.1808
+            ],
+            [
+              78.0153,
+              27.1808
+            ],
+            [
+              78.0153,
+              27.1805
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
