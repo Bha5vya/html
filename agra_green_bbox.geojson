@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Agra Green Area ROI"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.95,
+              27.15
+            ],
+            [
+              78.1,
+              27.15
+            ],
+            [
+              78.1,
+              27.25
+            ],
+            [
+              77.95,
+              27.25
+            ],
+            [
+              77.95,
+              27.15
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
